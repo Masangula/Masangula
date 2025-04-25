@@ -1,7 +1,7 @@
 <h1>Hi, I'm <strong>Joshua Oscar Masangula</strong>! <br/>
-  <a href="https://github.com/joshmasaqc11">Flutter Mobile Developer</a>, 
+  <a href="https://github.com/Masangula">Flutter Mobile Developer</a>, 
   <a href="https://www.linkedin.com/in/joshua-oscar-masangula/">Software Engineer</a>, 
-  <a href="https://www.youtube.com/c/joshmasaqc11">Tech Enthusiast</a>
+  <a href="#">Tech Enthusiast</a>
 </h1>
 
 <h2>📌 Profile</h2>
@@ -40,10 +40,10 @@
 <p><em>August 2022 - Present | Dar es Salaam, Tanzania</em></p>
 <ul>
   <li>Developed mobile app interfaces and integrated third-party services like Firebase, One Signal, and Google Cloud</li>
-  <li>Published apps on **iOS** and **Android** platforms</li>
+  <li>Published apps on iOS and Android platforms</li>
   <li>Led a team to develop new features and resolve bugs</li>
-  <li>Used **Figma** and **Adobe XD** to design wireframes for a credit scoring platform</li>
-  <li>Developed and maintained Afyachap Management Dashboard APIs using **Node.js** and **Express**</li>
+  <li>Used Figma and Adobe XD to design wireframes for a credit scoring platform</li>
+  <li>Developed and maintained Afyachap Management Dashboard APIs using Node.js and Express</li>
 </ul>
 
 <h3>TTCL | Software Developer</h3>
@@ -58,7 +58,7 @@
 <p><em>September 2021 - January 2022 | Mbeya, Tanzania</em></p>
 <ul>
   <li>Developed mobile app interfaces and integrated them with backend systems via APIs</li>
-  <li>Published mobile apps on **Android**</li>
+  <li>Published mobile apps on Android</li>
   <li>Collaborated within a team to ensure product quality and timely delivery</li>
 </ul>
 
@@ -116,7 +116,7 @@
 </ul>
 
 <h2>📱 Connect with Me</h2>
-<a href="https://github.com/joshmasaqc11" target="_blank"><img align="left" alt="Joshua Masangula | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href="https://github.com/Masangula" target="_blank"><img align="left" alt="Joshua Masangula | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://www.linkedin.com/in/joshua-oscar-masangula/" target="_blank"><img align="left" alt="Joshua Masangula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.youtube.com/c/joshmasaqc11" target="_blank"><img align="left" alt="Joshua Masangula | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href="https://www.instagram.com/joshmasaqc11/" target="_blank"><img align="left" alt="Joshua Masangula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
