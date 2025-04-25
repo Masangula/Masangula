@@ -21,9 +21,9 @@
 
 <h2>🏅 Certifications & Accomplishments</h2>
 <ul>
-  <li>Published updates for the **Nyimbo za Ibada** mobile app on the **Google Play Store** at **Vastlabs Technologies**</li>
-  <li>Published updates for **Afyachap** mobile app for both **Android** and **iOS** at **Nosolite Company Limited**</li>
-  <li>Developed the **Digital Dietitian** app to help users eat based on their BMI, age, and regional residence</li>
+  <li>Published updates for the Nyimbo za Ibada mobile app on the Google Play Store at Vastlabs Technologies</li>
+  <li>Published updates for Afyachap mobile app for both Android and iOS at Nosolite Company Limited</li>
+  <li>Developed the Digital Dietitian app to help users eat based on their BMI, age, and regional residence</li>
 </ul>
 
 <h2>💼 Work Experience</h2>
